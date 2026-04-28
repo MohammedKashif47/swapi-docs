@@ -1,0 +1,23 @@
+= Quick Start
+
+== Make your first request
+
+[source,bash]
+----
+curl -X GET https://swapi.py4e.com/api/people
+----
+
+== Sample Response
+
+[source,json]
+----
+{
+  "count": 87,
+  "results": [
+    {
+      "name": "Luke Skywalker",
+      "height": "172"
+    }
+  ]
+}
+----

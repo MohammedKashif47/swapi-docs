@@ -1,0 +1,5 @@
+name: swapi-docs
+title: Star Wars API Documentation
+version: 1.0
+nav:
+  - modules/ROOT/nav.adoc

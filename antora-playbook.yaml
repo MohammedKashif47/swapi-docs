@@ -1,0 +1,12 @@
+site:
+  title: SWAPI Developer Documentation
+  start_page: swapi-docs::index.adoc
+
+content:
+  sources:
+    - url: .
+      branches: HEAD
+
+ui:
+  bundle:
+    url: https://github.com/antora/antora-ui-default/releases/download/v3.1.7/ui-bundle.zip

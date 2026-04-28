@@ -1,0 +1,22 @@
+= Error Handling
+
+== Example Error
+
+[source,json]
+----
+{
+  "detail": "Not found"
+}
+----
+
+== Common Errors
+
+|===
+| Code | Description
+
+| 404
+| Resource not found
+
+| 500
+| Server error
+|===

@@ -1,0 +1,5 @@
+= Authentication
+
+SWAPI is a public API.
+
+No API key or authentication is required.

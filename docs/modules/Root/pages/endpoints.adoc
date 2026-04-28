@@ -1,0 +1,30 @@
+= API Endpoints
+
+== Get People
+
+`GET /people`
+
+[source,bash]
+----
+curl https://swapi.py4e.com/api/people
+----
+
+== Query Parameters
+
+|===
+| Parameter | Description
+| page | Pagination index
+|===
+
+== Get Planets
+
+`GET /planets`
+
+[source,bash]
+----
+curl https://swapi.py4e.com/api/planets
+----
+
+== Get Films
+
+`GET /films`

@@ -1,0 +1,11 @@
+= Star Wars API (SWAPI)
+
+SWAPI is a public REST API that provides data from the Star Wars universe.
+
+== Features
+- No authentication required
+- JSON responses
+- Multiple resources (people, planets, films)
+
+== Base URL
+`https://swapi.py4e.com/api`
